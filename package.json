@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://trifusion-999.github.io/AI-toolHub/",
+  "homepage": "https://trifusion-999.github.io/AItoolHub-Project/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
